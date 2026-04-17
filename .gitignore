@@ -1,0 +1,9 @@
+# Mengabaikan file rahasia
+.env
+
+# Mengabaikan cache python
+__pycache__/
+*.pyc
+
+# Mengabaikan folder environment (jika ada di dalam folder project)
+lky_ai/
